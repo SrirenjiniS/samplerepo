@@ -12,7 +12,7 @@ public class ThrowExample {
 	
 	else 
 	{
-		throw new NumberFormateException("NOT ELIGIBLE");
+		throw new NumberFormatException("NOT ELIGIBLE");
 	}
 
 	}

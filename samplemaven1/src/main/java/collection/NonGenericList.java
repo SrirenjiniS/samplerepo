@@ -1,6 +1,6 @@
 package collection;
 
-import java.awt.List;
+
 import java.util.ArrayList;
 import java.util.List;
 public class NonGenericList {
